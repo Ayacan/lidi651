@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["62838141607117@s.whatsapp.net"],
+  "ownerName": ["lidia"],
+  "botName": "Lidia V2 Bot",
+  "youtubeOwner": "https://youtube.com/c/",
+  "donasiDana": "083814160711",
+  "donasiGopay": "083814160711",
+  "sessionName": "session",
+  "pathimg": "./media/hinata.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
